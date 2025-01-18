@@ -1,32 +1,29 @@
-# Hotel-Bookings-Analysis
-
 # Hotel-Bookings-Analysis-PowerBI
-
-Bu proje, otel rezervasyonları verilerini analiz ederek rezervasyon trendlerini, müşteri davranışlarını ve genel iş performansını değerlendirmek için hazırlanmıştır. Power BI kullanılarak oluşturulan dashboard, otel işletmeleri için stratejik karar verme süreçlerine yardımcı olmayı hedeflemektedir.
-
----
-
-## 📊 Genel Bakış
-
-Bu bölüm, otel rezervasyonları ile ilgili genel bir özet sunmaktadır. Rezervasyon hacmi, sezonluk trendler ve temel performans metrikleri görselleştirilmiştir.
-
-![Genel Bakış](https://github.com/user-attachments/assets/5fe79940-5ad3-4a4c-8c0c-e8d8d0ec1bad)
+This project analyzes hotel booking data to evaluate booking trends, customer behaviors, and overall business performance. The dashboard created using Power BI aims to assist hotel businesses in making strategic decisions.
 
 ---
 
-## 📅 Rezervasyon Analizi
+#### 📊 Overview
+This section provides a general summary of hotel bookings. It visualizes booking volume, seasonal trends, and key performance metrics.
 
-Bu analiz, rezervasyon kanalları, iptaller, konaklama türleri ve doluluk oranları gibi rezervasyonlarla ilgili detaylı bilgilere odaklanmaktadır.
-
-![Rezervasyon Analizi](https://github.com/user-attachments/assets/8d1abb1d-12cb-4a8b-8ee5-327712d63e23)
+![Overview](https://github.com/user-attachments/assets/5fe79940-5ad3-4a4c-8c0c-e8d8d0ec1bad)
 
 ---
 
-## 👥 Müşteri Analizi
+#### 📅 Booking Analysis
+This analysis focuses on detailed information about bookings, including booking channels, cancellations, accommodation types, and occupancy rates.
 
-Müşteri segmentasyonları, ülkeler bazında rezervasyon dağılımı ve müşteri davranışlarına dair içgörüler sunan bir görselleştirme.
+![Booking Analysis](https://github.com/user-attachments/assets/8d1abb1d-12cb-4a8b-8ee5-327712d63e23)
 
-![Müşteri Analizi](https://github.com/user-attachments/assets/f02da7a6-10d7-40e2-9a1b-e17e75a18968)
+---
+
+#### 👥 Customer Analysis
+Visualizations offering insights into customer segmentation, booking distribution by country, and customer behaviors.
+
+![Customer Analysis](https://github.com/user-attachments/assets/f02da7a6-10d7-40e2-9a1b-e17e75a18968)
+
+---
+
 
 
 
